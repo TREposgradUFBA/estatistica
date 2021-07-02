@@ -3,6 +3,7 @@ title: "Análise Estatística de Dados - Aula 05"
 author: "Marco Vídero"
 description: "Notas de aula"
 ---
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # Aula 05
 
